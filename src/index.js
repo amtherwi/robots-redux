@@ -23,5 +23,5 @@ ReactDOM.render(
                 <App /> 
                 </Provider>,
                 document.getElementById('root'));
-serviceWorker.registerServiceWorker();
+serviceWorker.register();
 // serviceWorker.unregister();
