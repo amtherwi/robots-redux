@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robots-redux/static/css/main.f4fae457.chunk.css",
+    "main.js": "/robots-redux/static/js/main.98fabf52.chunk.js",
+    "main.js.map": "/robots-redux/static/js/main.98fabf52.chunk.js.map",
+    "runtime~main.js": "/robots-redux/static/js/runtime~main.de0c3655.js",
+    "runtime~main.js.map": "/robots-redux/static/js/runtime~main.de0c3655.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robots-redux/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.8942854f.chunk.js": "/robots-redux/static/js/2.8942854f.chunk.js",
+    "static/js/2.8942854f.chunk.js.map": "/robots-redux/static/js/2.8942854f.chunk.js.map",
+    "index.html": "/robots-redux/index.html",
+    "precache-manifest.07175c31bba101b8df0044d91ecbb2eb.js": "/robots-redux/precache-manifest.07175c31bba101b8df0044d91ecbb2eb.js",
+    "service-worker.js": "/robots-redux/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robots-redux/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.f4fae457.chunk.css.map": "/robots-redux/static/css/main.f4fae457.chunk.css.map",
+    "static/media/App.css": "/robots-redux/static/media/SEGA.12a3db8b.woff"
+  }
+}
